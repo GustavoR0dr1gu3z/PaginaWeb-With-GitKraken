@@ -1,0 +1,14 @@
+li{
+    list-style: none;
+}
+
+
+body {
+    background-image: url("https://miro.medium.com/max/3000/1*2bysml8-CozBhrBY6KzBHA.jpeg");
+}
+
+a{
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
